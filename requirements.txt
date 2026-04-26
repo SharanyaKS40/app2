@@ -4,3 +4,6 @@ pandas
 numpy
 seaborn
 matplotlib
+imbalanced-learn
+xgboost
+
